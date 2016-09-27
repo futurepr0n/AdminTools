@@ -4,7 +4,7 @@ print ""
 
 ##appcode = raw_input('Enter the AppCode: ')
 
-appcode = aRb0
+appcode = "aRb0"
 
 formatted_appcode = appcode.lower()
 dv = formatted_appcode + '_developer'
